@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Event</title>
+<link rel="icon" href="img/date.png">
+</head>
+<body bgcolor="black" style="color: white;">
+    <center>
+        <h1>Upcoming Events 📅</h1>
+        <p>Don't miss any of your important events. Stay Updated</p>
+        <hr>
+    </center>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat iusto enim alias repellendus aut odit quasi officia. Facere vero sit exercitationem esse. Inventore facere aperiam blanditiis assumenda animi, omnis voluptate qui neque hic sunt incidunt harum eum fugiat deleniti quo rem consectetur voluptas, sequi placeat distinctio? Magnam exercitationem quisquam obcaecati libero quidem blanditiis voluptatibus nobis? Consequatur, rerum molestiae cupiditate eos doloribus modi dolorum minima ea reprehenderit incidunt porro culpa rem, totam distinctio maiores. Aspernatur ex blanditiis assumenda excepturi, eligendi iusto exercitationem voluptatum obcaecati fugit suscipit fugiat numquam eveniet dicta neque ea nobis ab eos, expedita in dolores nesciunt maiores quis?
+    <center>
+        <img src="img/event1.png" >
+        <h2>Photo Gallery Events</h2>
+        <h3> Free Entry | Free Food | Pets are not allowed</h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus reprehenderit veritatis fugiat. Distinctio nemo cum suscipit ratione modi aliquam, aliquid saepe minus necessitatibus nisi fugiat perspiciatis, eius tempore dolores dicta dolorem debitis doloribus quas! Accusantium placeat sed laudantium perspiciatis ex dicta quibusdam quis eum nulla iusto. Aperiam ab nisi quam?</p>
+    </center>
+    <center>
+        <img src="img/event2.png" ><br>
+        <h2>
+        <a href="https://www.myntra.com/">Fashion strore</a>
+        <h3> Free Entry | Free Food | Pets are not allowed</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo nesciunt, cum incidunt inventore sed neque ipsa voluptatem ut temporibus commodi, nam odit harum aperiam tempore vel, totam in reiciendis beatae placeat consectetur eos voluptate. Labore nobis sapiente nam illo, consectetur mollitia repellendus quaerat! Eligendi, debitis!</p>
+         <hr>
+        <h2>Contact</h2>
+        <h3>+91 9944943322 | event@gmail.com</h3>
+        <p>Ksr Kalvi Nagar,Thiruchengode</p>
+    </center>
+</body>
+</html>
